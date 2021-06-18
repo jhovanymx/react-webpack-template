@@ -24,8 +24,8 @@ Template for a Web App with WebPack, includes loaders for ES6 (Babel) and CSS/SC
 + **html-webpack-plugin**: Generates on-fly HTML index or main page, it incrusting tags for loading bundles of JS and CSS code
 + **mini-css-extract-plugin**: Generates static CSS bundle
 + **bootstrap**: CSS framework for desing Web Pages
-+ **jquery++: Fast, small, and feature-rich JavaScript library
-+ **popper.js++: A library used to position poppers in web applications
++ **jquery**: Fast, small, and feature-rich JavaScript library
++ **popper.js**: A library used to position poppers in web applications
 
 ## .babelrc
 This file indicates the presets that Babel must using
